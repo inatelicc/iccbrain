@@ -1,5 +1,9 @@
 # ICC Brain
-Collection of links, courses etc.  
+Collection of links, courses etc.
+
+## Free ebooks
+[Free Learning - Free Technology eBooks
+FREE LEARNING - FREE TECHNOLOGY EBOOKS](https://www.packtpub.com/packt/offers/free-learning)
 
 ## Javascript
 ### VanillaJS
