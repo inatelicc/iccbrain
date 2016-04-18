@@ -2,8 +2,7 @@
 Collection of links, courses etc.
 
 ## Free ebooks
-[Free Learning - Free Technology eBooks
-FREE LEARNING - FREE TECHNOLOGY EBOOKS](https://www.packtpub.com/packt/offers/free-learning)
+[Free Learning - Free Technology eBooks](https://www.packtpub.com/packt/offers/free-learning)
 
 ## Javascript
 ### VanillaJS
