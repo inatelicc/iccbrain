@@ -19,11 +19,4 @@ Collection of links, courses etc.
 [Refactoring Angular Apps to Component Style](http://teropa.info/blog/2015/10/18/refactoring-angular-apps-to-components.html)  
 [Exploring the Angular 1.5 .component() method](https://toddmotto.com/exploring-the-angular-1-5-component-method/)  
 
-## CSS
-### Grids
-[Don’t Overthink It Grids](https://css-tricks.com/dont-overthink-it-grids/)
-### Methodology
-[CSS BEM](http://getbem.com/introduction/)  
-[CSS BEM 101 - CSS Tricks](https://css-tricks.com/bem-101/)  
-### Pre-processors
-[CSS Sass - Course Loiane G.](https://www.youtube.com/playlist?list=PL3C05B7A66AC502CF)  
+## CSS [view](https://github.com/inatelicc/iccbrain/blob/master/css.md)
